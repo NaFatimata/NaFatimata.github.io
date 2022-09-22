@@ -15,8 +15,6 @@ This portfolio is updated on a regular basis.
   
    ## Streamlining Employee Data - https://github.com/NaFatimata/Streamlining_Employee_Data_Python#streamlining_employee_data_python
    
-   Code: https://github.com/NaFatimata/Streamlining_Employee_Data_Python/blob/main/Streamlining_Employee_Data.ipynb
-   
    ![pic](https://user-images.githubusercontent.com/89815266/191799692-12d25638-bf37-4515-86e2-d57c5e245fe2.png)
 
 
