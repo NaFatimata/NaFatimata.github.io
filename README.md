@@ -10,3 +10,7 @@ This portfolio is updated on a regular basis.
 # Data Analysis Portfolio - Na Fatimata Sogodogo
 
 # PROJECTS
+
+# Python 
+  
+Streamlining Employee Data - https://github.com/NaFatimata/Streamlining_Employee_Data_Python/blob/main/Streamlining_Employee_Data.ipynb
