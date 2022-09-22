@@ -13,9 +13,9 @@ This portfolio is updated on a regular basis.
 
 ### PYTHON
   
-![pic](https://user-images.githubusercontent.com/89815266/191801320-49dddbc4-7dd1-42d7-8546-1af25d9e409a.png)
+  ### Streamlining Employee Data - https://github.com/NaFatimata/Streamlining_Employee_Data_Python#streamlining_employee_data_python 
 
-Streamlining Employee Data - https://github.com/NaFatimata/Streamlining_Employee_Data_Python#streamlining_employee_data_python
+![pic](https://user-images.githubusercontent.com/89815266/191801320-49dddbc4-7dd1-42d7-8546-1af25d9e409a.png)
 
 
 
