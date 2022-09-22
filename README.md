@@ -11,7 +11,7 @@ This portfolio is updated on a regular basis.
 
 # Projects
 
-### PYTHON
+## PYTHON
   
   ### Streamlining Employee Data - https://github.com/NaFatimata/Streamlining_Employee_Data_Python#streamlining_employee_data_python 
 
@@ -24,3 +24,7 @@ This portfolio is updated on a regular basis.
    SKILLS: Importing and Cleaning Data, Data Manipulation, Using DataFrames to read and merge data from different sources
 
    TECHNOLOGY: Python, Pandas
+   
+   # 
+
+## SQL
