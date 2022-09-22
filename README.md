@@ -11,7 +11,7 @@ This portfolio is updated on a regular basis.
 
 # Projects
 
-## PYTHON
+### PYTHON
   
   ### Streamlining Employee Data - https://github.com/NaFatimata/Streamlining_Employee_Data_Python#streamlining_employee_data_python 
 
@@ -27,4 +27,4 @@ This portfolio is updated on a regular basis.
    
    # 
 
-## SQL
+### SQL
