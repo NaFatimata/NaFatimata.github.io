@@ -27,4 +27,16 @@ This portfolio is updated on a regular basis.
    
    # 
 
-### SQL
+### R
+  ### Health Survey Data Analysis of BMI - https://github.com/NaFatimata/Health-Survey-Data-Analysis-of-BMI#health-survey-data-analysis-of-bmi
+![pic](https://user-images.githubusercontent.com/89815266/191878511-59f24893-b62b-46b0-ad15-711ba6df3593.png)
+
+
+
+  In this project, I use survey data of approximately 20,000 people sampled from the United States to explore health behavior associated with lower Body Mass Index (BMI).
+
+Incorporating survey design methods, I use multiple regression to handle confounders when testinh whether physical activity is associated with lower BMI.
+
+  SKILLS: Multiple and Logistic Regression in R, Analyzing survey data in R
+
+  TECHNOLOGY: R, Tidyverse (dplyr, ggplot2)
