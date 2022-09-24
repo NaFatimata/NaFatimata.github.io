@@ -12,6 +12,21 @@ This portfolio is updated on a regular basis.
 # Projects
 
 ### PYTHON
+
+  ### Predicting Blood Donations - https://github.com/NaFatimata/Predicting-Blood-Donations#predicting-blood-donations
+  
+  ![pic](https://user-images.githubusercontent.com/89815266/192079766-11a4d707-f6bd-46e4-86b0-259e28aa384b.jpg)
+  
+  In this project, I work with data collected from the donor database of Blood Transfusion Service Center in Hsin-Chu City in Taiwan.
+
+The center passes its blood transfusion service bus to one university in Hsin-Chu City to gather blood donated about every three months. The dataset, obtained from the UCI Machine Learning Repository, consists of a random sample of 748 donors.
+
+I predict if a blood donor will donate within a given time window.
+
+TECHNOLOGY: Python
+
+  
+# 
   
   ### Streamlining Employee Data - https://github.com/NaFatimata/Streamlining_Employee_Data_Python#streamlining_employee_data_python 
 
