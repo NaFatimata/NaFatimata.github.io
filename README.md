@@ -58,6 +58,20 @@ Incorporating survey design methods, I use multiple regression to handle confoun
   
   #
   
+  ### Clustering Heart Disease Patient Data - https://github.com/NaFatimata/Clustering-Heart-Disease-Patient-Data#clustering-heart-disease-patient-data
+  ![pic](https://user-images.githubusercontent.com/89815266/192108945-0d892894-e782-447f-89e7-55b30b019c9d.jpg)
+
+In this project, I investigate whether doctors might be able to group together patients to target treatments using common unsupervised learning techniques.
+
+I use k-means and hierarchical clustering algorithms.
+
+The data we are analyzing comes from the V.A. Medical Center in Long Beach, CA and contains characteristics of patients diagnosed with heart disease.
+
+TECHNOLOGY: R 
+  
+  
+  #
+  
   
 ### SQL
   
