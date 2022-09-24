@@ -45,6 +45,7 @@ Incorporating survey design methods, I use multiple regression to handle confoun
   
   
 ### SQL
+  
   ### Optimizing Online Sports Retail Revenue - https://github.com/NaFatimata/Optimizing-Online-Sports-Retail-Revenue#optimizing-online-sports-retail-revenue
   
   ![pic](https://user-images.githubusercontent.com/89815266/192078197-f1dd4e99-b02f-4387-abb3-e32d10b61750.jpg)
@@ -57,6 +58,18 @@ I work with numeric, string, and timestamp data on pricing and revenue, ratings,
 I use techniques such as aggregation, labeling, Common Table Expressions, and correlation to produce recommendations on how the company can maximize revenue.
 
 TECHNOLOGY: SQL
+
+   # 
+
+  ### Analyzing NYC Public School Test Results - https://github.com/NaFatimata/Analyzing-NYC-Public-School-Test-Results#analyzing-nyc-public-school-test-results
+  
+![pic](https://user-images.githubusercontent.com/89815266/192079083-7b5173c3-ef77-48e0-ab80-7aa22bf17c2c.jpg)
+
+In this project, I work with a SQL database containing test performance from NYC's public schools.
+
+I look at how performance varies by borough, identify how many schools fail to report information, and find the top 10 performing schools across the city.
+
+TECHNOLOGY: SQL 
 
     
     
