@@ -40,3 +40,24 @@ Incorporating survey design methods, I use multiple regression to handle confoun
   SKILLS: Multiple and Logistic Regression in R, Analyzing survey data in R
 
   TECHNOLOGY: R, Tidyverse (dplyr, ggplot2)
+  
+  #
+  
+  
+### SQL
+  ### Optimizing Online Sports Retail Revenue - https://github.com/NaFatimata/Optimizing-Online-Sports-Retail-Revenue#optimizing-online-sports-retail-revenue
+  
+  ![pic](https://user-images.githubusercontent.com/89815266/192078197-f1dd4e99-b02f-4387-abb3-e32d10b61750.jpg)
+  
+  
+In this project, I use my SQL skills to analyze product data for an online sports retail company.
+
+I work with numeric, string, and timestamp data on pricing and revenue, ratings, reviews, description, and website traffic.
+
+I use techniques such as aggregation, labeling, Common Table Expressions, and correlation to produce recommendations on how the company can maximize revenue.
+
+TECHNOLOGY: SQL
+
+    
+    
+  
