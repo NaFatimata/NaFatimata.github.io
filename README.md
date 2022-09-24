@@ -68,6 +68,20 @@ I use k-means and hierarchical clustering algorithms.
 The data we are analyzing comes from the V.A. Medical Center in Long Beach, CA and contains characteristics of patients diagnosed with heart disease.
 
 TECHNOLOGY: R 
+
+  # 
+  
+  ### Visualizing Inequalities in Life Expectancy - https://github.com/NaFatimata/Visualizing-Inequalities-in-Life-Expectancy/blob/main/README.md#visualizing-inequalities-in-life-expectancy
+  ![pic](https://user-images.githubusercontent.com/89815266/192110422-0aa7c3e5-79ff-4b9a-8ef5-969c3a17d107.png)
+
+  
+  In this project, I compare life expectancy across countries and genders with ggplot2.
+
+I use United Nations life expectancy data for the periods of 1985-1990, 1990-1995, 1995-2000, 2000-2005.
+
+The dataset contains the average life expectancies of men and women by country.
+
+TECHNOLOGY: R
   
   
   #
